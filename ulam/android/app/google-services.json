@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186915296595",
+    "project_id": "ulam-5bd3f",
+    "storage_bucket": "ulam-5bd3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186915296595:android:ecfd0653ff7f1228e9bda6",
+        "android_client_info": {
+          "package_name": "com.example.ulam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186915296595-4rr41vv71bs571alvr6hskgbphk6subi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeadSGWRHdxEwY05UAhgH3rCRMmHz9H3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186915296595-4rr41vv71bs571alvr6hskgbphk6subi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
